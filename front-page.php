@@ -40,37 +40,54 @@ get_header();
     </div>
   <?php endif; ?>
 </div>
+<div class="head__message">
+  <p>髪質を理由にキレイを諦めない</p>
+  <p>子育てを理由にキレイを諦めない</p>
+</div>
 <div class="content concept">
-  <div class="content__head">
-       <p>髪質を理由にキレイを諦めない</p>
-       <p>子育てを理由にキレイを諦めない</p>
-    <a href="https://lin.ee/qJydyXq" class="line"><img src="http://riin-hair.com/wp-content/uploads/2023/01/LINE.png" alt="友だち追加" height="36" border="0"></a>
+  <div class="content__head-text">
+    <div class="content__inner">
+      <p>Ri!n hair（リンヘアー）のホームページをご覧いただきありがとうございます。当店は、髪をキレイにしたい女性が行き着く特別なサロンです。</p>
+      <p>当店では、ぱさつき、うねり、枝毛、まとまらない髪・・・<br>そんなお客様の悩める髪を、誰もが憧れる艶髪へと導いてきました。<br>安心して任せて頂けるように、スタイリストはマンツーマンであなたの髪をキレイにします。<br>他のお客様との同時進行はいたしません。</p>
+      <p>ご来店頂いたら、お悩みを把握できるように、特別なカウンセリングで丁寧にヒアリング。<br>その後、落ち着きある空間で施術をはじめます。<br>今までのヘアケアやトリートメントとは違い、髪がキレイになっていきます。</p>
+      <p class="content__head__p">リンヘアーが提供している、美しくまとまる髪質と安心できるサービスをご紹介いたしますのでご確認ください。<br>まずはじめにお伝えしたいことは、今、髪にどんなお悩みがあっても、艶やかで美しい髪を目指せるということです。</p>
+      <div class="sns">
+        <div class="sns__line">
+          <a href="https://lin.ee/qJydyXq"><img src="http://riin-hair.com/wp-content/uploads/2023/01/LINE.png" alt="友だち追加" height="36" border="0"></a>
+        </div>
+        <div class="sns__insta">
+          <a href="https://instagram.com/shingo_riinhair?igshid=YmMyMTA2M2Y="><i class="fa-brands fa-instagram size"></i></a>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class="content__box">
-    <ul class="content__flex">
-      <li>
-        <img src="http://riin-hair.com/wp-content/uploads/2022/08/18250260_MotionElements_natural-cosmetic-product-scaled.jpg">
-        <h3>フルオーダーメイド</h3>
-        <p>一人一人違うクセや太さ、ダメージを見極めてあなただけの薬剤をその場で調合いたします</p>
-        <p>トリートメントも必要な栄養分をたっぷり内側まで届けるフルオーダートリートメントもご用意しております。</p>
-        <p>また、お飲み物やBGMもご希望があればご用意させて頂いております。<br>（コロナ収束までドリンク提供は水のみとさせて頂いております。</p>
-      </li>
-      <li>
-        <img src="http://riin-hair.com/wp-content/uploads/2022/08/DSC09609-2.png">
-        <h3>オーナーマンツーマン</h3>
-        <p>薬剤の塗布やアイロンの熱入れ、水分量を調節するドライコントロールに至るまで、マニュアル化できない程複雑な技術です。</p>
-        <p>多人数サロン様では再現不可能な技術をマンツーマンならではでご提供させて頂きます。相談しにくい事も何なりとご相談ください。コロナ対策も万全です。</p>
-      </li>
-      <li>
-        <img src="http://riin-hair.com/wp-content/uploads/2022/08/IMG_9138.jpg">
-        <h3>完全貸切</h3>
-        <p>映画を見たり雑誌や小説を見たり忙しくてできなかった事をご自身の時間としてお過ごし下さい。</p>
-        <p>キッズスペース有りと、ベビーカーやお子様とご一緒でのご来店もおすすめです。</p>
-        <p>キッズスペースがあっても「もし泣いてしまったらどうしよう・・」そんなママさんならではの不安もご安心ください。２児の父親経験を生かして、眠くなるBGMやおむつ交換台も完備しております。</p>
-      </li>
-    </ul>
+</div>
+</div>
+<div class="content__box">
+  <ul class="content__flex">
+    <li>
+      <img src="http://riin-hair.com/wp-content/uploads/2022/08/18250260_MotionElements_natural-cosmetic-product-scaled.jpg">
+      <h3>フルオーダーメイド</h3>
+      <p>一人一人違うクセや太さ、ダメージを見極めてあなただけの薬剤をその場で調合いたします</p>
+      <p>トリートメントも必要な栄養分をたっぷり内側まで届けるフルオーダートリートメントもご用意しております。</p>
+      <p>また、お飲み物やBGMもご希望があればご用意させて頂いております。<br>（コロナ収束までドリンク提供は水のみとさせて頂いております。</p>
+    </li>
+    <li>
+      <img src="http://riin-hair.com/wp-content/uploads/2022/08/DSC09609-2.png">
+      <h3>オーナーマンツーマン</h3>
+      <p>薬剤の塗布やアイロンの熱入れ、水分量を調節するドライコントロールに至るまで、マニュアル化できない程複雑な技術です。</p>
+      <p>多人数サロン様では再現不可能な技術をマンツーマンならではでご提供させて頂きます。相談しにくい事も何なりとご相談ください。コロナ対策も万全です。</p>
+    </li>
+    <li>
+      <img src="http://riin-hair.com/wp-content/uploads/2022/08/IMG_9138.jpg">
+      <h3>完全貸切</h3>
+      <p>映画を見たり雑誌や小説を見たり忙しくてできなかった事をご自身の時間としてお過ごし下さい。</p>
+      <p>キッズスペース有りと、ベビーカーやお子様とご一緒でのご来店もおすすめです。</p>
+      <p>キッズスペースがあっても「もし泣いてしまったらどうしよう・・」そんなママさんならではの不安もご安心ください。２児の父親経験を生かして、眠くなるBGMやおむつ交換台も完備しております。</p>
+    </li>
+  </ul>
 
-  </div>
+</div>
 
 
 </div>
@@ -107,6 +124,16 @@ get_header();
 
 
 </div>
+
+<div class="sns">
+  <div class="sns__line">
+    <a href="https://lin.ee/qJydyXq"><img src="http://riin-hair.com/wp-content/uploads/2023/01/LINE.png" alt="友だち追加" height="36" border="0"></a>
+  </div>
+  <div class="sns__insta">
+    <a href="https://instagram.com/shingo_riinhair?igshid=YmMyMTA2M2Y="><i class="fa-brands fa-instagram size"></i></a>
+  </div>
+</div>
+
 <div class="l-inner">
   <div class="l-contents">
     <div class="l-primary">
@@ -269,11 +296,9 @@ get_header();
   </div>
 </div>
 
-
-
 <div class="content faq">
   <div class="faq__title">
-    <p>ご来店前に頂くご質問と回答</p>
+    <p>ご来店前に頂く<br class="sp">ご質問と回答</p>
   </div>
   <div class="content__box">
     <ul class="faq__box">
@@ -416,7 +441,15 @@ get_header();
 
   </div>
 
+</div>
 
+<div class="sns">
+  <div class="sns__line">
+    <a href="https://lin.ee/qJydyXq"><img src="http://riin-hair.com/wp-content/uploads/2023/01/LINE.png" alt="友だち追加" height="36" border="0"></a>
+  </div>
+  <div class="sns__insta">
+    <a href="https://instagram.com/shingo_riinhair?igshid=YmMyMTA2M2Y="><i class="fa-brands fa-instagram size"></i></a>
+  </div>
 </div>
 
 <div class="content voice">
